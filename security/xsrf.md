@@ -99,6 +99,6 @@ XSRF может использоваться не только с формами
 
 ## Ссылки
 
-- http://habrahabr.ru/post/235247/
+- http://habrahabr.ru/post/235247/ - ошибки при реализации защиты от CSRF
 - http://habrahabr.ru/post/21626/ - CSRF на вконтакте в 2008 (тогда у них много уязвимостей было)
 - http://intsystem.org/812/stripping-referer-in-redirect/ - некоторые варианты обойти проверку через Referer (потому ты должен использовать токены)
