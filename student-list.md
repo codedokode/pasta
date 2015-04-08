@@ -120,7 +120,11 @@ $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 Мануал: http://php.net/manual/ru/pdo.error-handling.php
 
-При соединении с базой не забудь задать кодировку запросом `SET NAMES`. Если ты используешь PDO, этот запрос удобно указать в параметре `PDO::MYSQL_ATTR_INIT_COMMAND` (пример тут: http://php-zametki.ru/php-prodvinutym/58-pdo-konstanty-atributy.html)
+При соединении с базой не забудь задать кодировку соединения (в какой кодировке ты отправляешь и получаешь данные). Это удобно сделать с помощью параметра charset: http://php.net/manual/ru/ref.pdo-mysql.connection.php (не забудь что в MySQL utf-8 пишется без дефиса: `utf8`).
+
+В MySQLi для задания кодировки есть отдельный метод: http://php.net/manual/ru/mysqli.set-charset.php
+
+Также кодировку можно задать запросом `SET NAMES`.
 
 При написании запросов тебе надо подставлять в них какие-то значения из переменных. Не вставляй данные напрямую, вот так: 
 
