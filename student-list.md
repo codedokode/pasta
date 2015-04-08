@@ -120,7 +120,7 @@ $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 Мануал: http://php.net/manual/ru/pdo.error-handling.php
 
-При соединении с базой не забудь задать кодировку соединения (в какой кодировке ты отправляешь и получаешь данные). Это удобно сделать с помощью параметра charset: http://php.net/manual/ru/ref.pdo-mysql.connection.php (не забудь что в MySQL utf-8 пишется без дефиса: `utf8`).
+При соединении с базой не забудь задать кодировку соединения (в какой кодировке ты отправляешь и получаешь данные). Это удобно сделать с помощью параметра `charset`: http://php.net/manual/ru/ref.pdo-mysql.connection.php (не забудь что в MySQL utf-8 пишется без дефиса: `utf8`).
 
 В MySQLi для задания кодировки есть отдельный метод: http://php.net/manual/ru/mysqli.set-charset.php
 
