@@ -15,6 +15,10 @@ $files = new RecursiveIteratorIterator(
 );
 
 foreach ($files as $file) {
+    if (mb_strtolower($file->getBasename()) == 'readme.md') {
+        continue;
+    }
+
     if ($file->isFile() && preg_match("/\.(md|txt)$/", $file->getFilename())) {
         $list[] = $file->getPathname();
     }

@@ -1,0 +1,2269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="2000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="js-spa.svg"
+   inkscape:export-filename="D:\files\js-spa.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6322"
+       osb:paint="solid"
+       gradientTransform="translate(0,-576)">
+      <stop
+         style="stop-color:#bb309e;stop-opacity:1;"
+         offset="0"
+         id="stop6324" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6316"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6318" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path5135"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path5129"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       id="linearGradient3843"
+       osb:paint="solid"
+       gradientTransform="matrix(4.6816569,0,0,1,-777.97107,-8243.842)">
+      <stop
+         style="stop-color:#1d53b5;stop-opacity:1;"
+         offset="0"
+         id="stop3845" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3809"
+       osb:paint="solid"
+       gradientTransform="matrix(1.0950057,0,0,1.1691991,51.347406,-1593.925)">
+      <stop
+         style="stop-color:#e4eaf2;stop-opacity:1;"
+         offset="0"
+         id="stop3811" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3809"
+       id="linearGradient3815"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-880)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3809"
+       id="linearGradient4116"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-13,-330)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient4207"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-143.16799,745)"
+       x1="193.02361"
+       y1="217.51871"
+       x2="290.89859"
+       y2="217.51871" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6322"
+       id="linearGradient6326"
+       x1="212.5"
+       y1="399.5"
+       x2="264.5"
+       y2="399.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-144)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient6442"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(151.83201,881.6378)"
+       x1="193.02361"
+       y1="217.51871"
+       x2="290.89859"
+       y2="217.51871" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient6446"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-96.16799,632.6378)"
+       x1="193.02361"
+       y1="217.51871"
+       x2="290.89859"
+       y2="217.51871" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient6450"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-90.16799,-745)"
+       x1="193.02361"
+       y1="217.51871"
+       x2="290.89859"
+       y2="217.51871" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient6454"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(149.90664,-783.66191)"
+       x1="193.02361"
+       y1="217.51871"
+       x2="290.89859"
+       y2="217.51871" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient6458"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(149.90664,-831.03806)"
+       x1="193.02361"
+       y1="217.51871"
+       x2="290.89859"
+       y2="217.51871" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient6462"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(149.90664,-878)"
+       x1="193.02361"
+       y1="217.51871"
+       x2="290.89859"
+       y2="217.51871" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3843"
+       id="linearGradient6466"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(149.90664,-903.16295)"
+       x1="193.02361"
+       y1="217.51871"
+       x2="290.89859"
+       y2="217.51871" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="341.90299"
+     inkscape:cy="1825.6626"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="101.82338,938.3307"
+       id="guide3817" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="263,391"
+       id="guide4162" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="253,415.5"
+       id="guide4164" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="296,460"
+       id="guide4178" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="329,527"
+       id="guide4180" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Plan"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,947.63782)">
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1d59b5;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="218.4455"
+       y="-791.32336"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="218.4455"
+         y="-791.32336"
+         id="tspan2997">Студенты</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3001"
+       y="-791.32336"
+       x="101.08704"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         id="tspan3003"
+         y="-791.32336"
+         x="101.08704"
+         sodipodi:role="line">Расписание</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.34939492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 87.285714,-776.47028 0,-39.23897 115.617006,0 0,39.23897 474.52585,0"
+       id="path3005"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#2761b9;fill-opacity:1;stroke:#1d59b5;stroke-width:1.22281897;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 219.15255,-788.93071 71.81908,0"
+       id="path3775"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:url(#linearGradient3815);fill-opacity:1;stroke:none"
+       id="rect3803"
+       width="88.388351"
+       height="28.637825"
+       x="92.398758"
+       y="-759.72583"
+       rx="5.2472544"
+       ry="5.1853366" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="100.76272"
+       y="-741.41962"
+       id="text3777"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3779"
+         x="100.76272"
+         y="-741.41962">Все группы</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3781"
+       y="-741.41962"
+       x="193.5948"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-741.41962"
+         x="193.5948"
+         id="tspan3783"
+         sodipodi:role="line">36012</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="252.50012"
+       y="-741.41962"
+       id="text3787"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3789"
+         x="252.50012"
+         y="-741.41962">36203</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3795"
+       y="-741.41962"
+       x="311.61734"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-741.41962"
+         x="311.61734"
+         id="tspan3797"
+         sodipodi:role="line">42011М</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+       x="101.82338"
+       y="-681.09363"
+       id="text3819"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3821"
+         x="101.82338"
+         y="-681.09363">12 марта</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="292.50461"
+       y="-680.80078"
+       id="text3825"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3827"
+         x="292.50461"
+         y="-680.80078">11:10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6466);fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="341.89801"
+       y="-680.80078"
+       id="text3829"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3831"
+         x="341.89801"
+         y="-680.80078"
+         style="fill:url(#linearGradient6466);fill-opacity:1">Лин. анализ, ауд. 215, 36012</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3835"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"><flowRegion
+         id="flowRegion3837"><rect
+           id="rect3839"
+           width="185"
+           height="25"
+           x="91"
+           y="208.36218" /></flowRegion><flowPara
+         id="flowPara3841" /></flowRoot>    <path
+       style="fill:none;stroke:url(#linearGradient3843);stroke-width:1.37488019px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 341.53258,-678.52992 189.80305,0"
+       id="path3849"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3905"
+       y="-654.63782"
+       x="292.50461"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-654.63782"
+         x="292.50461"
+         id="tspan3907"
+         sodipodi:role="line">13:30</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3909"
+       y="-655.63782"
+       x="341.89801"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6462);fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         style="fill:url(#linearGradient6462);fill-opacity:1"
+         y="-655.63782"
+         x="341.89801"
+         id="tspan3911"
+         sodipodi:role="line">Теор. вер., 3 курс</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3915"
+       d="m 341.53258,-653.65986 116.54443,0"
+       style="fill:none;stroke:url(#linearGradient3843);stroke-width:1.07735562px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3929"
+       y="-681.09363"
+       x="185.26198"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+       xml:space="preserve"><tspan
+         y="-681.09363"
+         x="185.26198"
+         id="tspan3931"
+         sodipodi:role="line"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma">сегодня</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3939"
+       y="-607.26166"
+       x="101.82338"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+       xml:space="preserve"><tspan
+         y="-607.26166"
+         x="101.82338"
+         id="tspan3941"
+         sodipodi:role="line">14 марта</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+       x="185.26198"
+       y="-607.26166"
+       id="text3943"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+         sodipodi:role="line"
+         id="tspan3945"
+         x="185.26198"
+         y="-607.26166">Ср</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3951"
+       y="-608.67584"
+       x="292.50461"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-608.67584"
+         x="292.50461"
+         id="tspan3953"
+         sodipodi:role="line">14:00</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3955"
+       y="-608.67584"
+       x="341.89801"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6458);fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         style="fill:url(#linearGradient6458);fill-opacity:1"
+         y="-608.67584"
+         x="341.89801"
+         id="tspan3957"
+         sodipodi:role="line">Лин. анализ, ауд. 100-м, 36203</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3961"
+       d="m 341.53258,-606.40503 203.17145,0"
+       style="fill:none;stroke:url(#linearGradient3843);stroke-width:1.42247486px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+       x="101.82338"
+       y="-559.8855"
+       id="text3967"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3969"
+         x="101.82338"
+         y="-559.8855">16 марта</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3971"
+       y="-559.8855"
+       x="185.26198"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+       xml:space="preserve"><tspan
+         y="-559.8855"
+         x="185.26198"
+         id="tspan3973"
+         sodipodi:role="line"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma">Пт</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="292.50461"
+       y="-561.29968"
+       id="text3975"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3977"
+         x="292.50461"
+         y="-561.29968">11:10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6454);fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="341.89801"
+       y="-561.29968"
+       id="text3979"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3981"
+         x="341.89801"
+         y="-561.29968"
+         style="fill:url(#linearGradient6454);fill-opacity:1">Мат. стат., ауд. 205, 42011М</tspan></text>
+    <path
+       style="fill:none;stroke:url(#linearGradient3843);stroke-width:1.36532688px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 341.53258,-559.02888 187.17449,0"
+       id="path3985"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4005"
+       transform="matrix(1.4102588,0,0,1.4102588,-118.24535,-959.68333)"
+       style="stroke:#96a2fe;stroke-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3993"
+         d="m 285.125,189.86218 2.5,2.5 -5.5625,5.5625 -2.5,-2.5 z"
+         style="fill:none;stroke:#96a2fe;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3995"
+         d="m 278.6175,196.5582 2.48381,2.48381 -2.48381,0 z"
+         style="fill:none;stroke:#96a2fe;stroke-width:0.72696471;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4005"
+       id="use4009"
+       transform="translate(0,25)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4009"
+       id="use4011"
+       transform="translate(0,47)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4011"
+       id="use4013"
+       transform="translate(0,48)"
+       width="744.09448"
+       height="1052.3622" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6450);fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="101.82338"
+       y="-522.63782"
+       id="text4015"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4017"
+         x="101.82338"
+         y="-522.63782"
+         style="fill:url(#linearGradient6450);fill-opacity:1">Добавить занятия</tspan></text>
+    <path
+       style="fill:none;stroke:url(#linearGradient3843);stroke-width:1.07735562;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.07735562, 1.07735562;stroke-dashoffset:0"
+       d="m 101.45795,-520.65986 116.54443,0"
+       id="path4019"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4047"
+       y="-791.32336"
+       x="218.4455"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1d59b5;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         id="tspan4049"
+         y="-791.32336"
+         x="218.4455"
+         sodipodi:role="line">Студенты</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="101.08704"
+       y="-791.32336"
+       id="text4051"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="101.08704"
+         y="-791.32336"
+         id="tspan4053">Расписание</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4055"
+       d="m 87.285714,-776.47028 0,-39.23897 115.617006,0 0,39.23897 474.52585,0"
+       style="fill:none;stroke:#000000;stroke-width:0.34939492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4057"
+       d="m 219.15255,-788.93071 71.81908,0"
+       style="fill:#2761b9;fill-opacity:1;stroke:#1d59b5;stroke-width:1.22281897;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Students"
+     style="display:inline"
+     transform="translate(0,947.63782)">
+    <rect
+       style="fill:url(#linearGradient3809);fill-opacity:1;stroke:none"
+       id="rect4223"
+       width="25"
+       height="206.5"
+       x="476"
+       y="-143.13782" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4059"
+       y="-235.32335"
+       x="218.4455"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1d59b5;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         id="tspan4061"
+         y="-235.32335"
+         x="218.4455"
+         sodipodi:role="line">Студенты</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="218.4455"
+       y="-235.32335"
+       id="text4071"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="218.4455"
+         y="-235.32335"
+         id="tspan4073">Студенты</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4075"
+       y="-235.32335"
+       x="101.82338"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3843);fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         id="tspan4077"
+         y="-235.32335"
+         x="101.82338"
+         sodipodi:role="line">Расписание</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.34939492;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 86.32338,-222.17637 116.46233,0 0,-37.53288 98.61701,0 0,37.53288 376.02585,0"
+       id="path4079"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#2761b9;fill-opacity:1;stroke:#1d59b5;stroke-width:1.33578777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 101.82338,-232.93071 85.70189,0"
+       id="path4081"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="5.1853366"
+       rx="5.2472544"
+       y="-208.31165"
+       x="91.066017"
+       height="27.223539"
+       width="60.104004"
+       id="rect4113"
+       style="fill:url(#linearGradient4116);fill-opacity:1;stroke:none;display:inline" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#text3781"
+       id="use4099"
+       transform="translate(-91.771423,552)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#text3787"
+       id="use4101"
+       transform="translate(-91.771423,552)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#text3795"
+       id="use4103"
+       transform="translate(-91.771423,552)"
+       width="744.09448"
+       height="1052.3622" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3843);fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="288"
+       y="-189.2077"
+       id="text4118"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4120"
+         x="288"
+         y="-189.2077">...</tspan></text>
+    <rect
+       style="fill:none;stroke:#b6b6b6;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4126"
+       width="150.28818"
+       height="22"
+       x="388"
+       y="-205.63782"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="393.5"
+       y="-189.41962"
+       id="text4122"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4124"
+         x="393.5"
+         y="-189.41962">Лин. Анализ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="100.69115"
+       y="-99.1297"
+       id="text4130"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4132"
+         x="100.69115"
+         y="-99.1297">Иван Иванов</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="100.69115"
+       y="-70.011841"
+       id="text4134"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4136"
+         x="100.69115"
+         y="-70.011841">Пётр Петров</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="100.69115"
+       y="-6.7038574"
+       id="text4138"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4140"
+         x="100.69115"
+         y="-6.7038574">Константин Константинопо…</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="101.27221"
+       y="22.530212"
+       id="text4142"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4144"
+         x="101.27221"
+         y="22.530212">Сидор Сидоров</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="100.69115"
+       y="54.184204"
+       id="text4146"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4148"
+         x="100.69115"
+         y="54.184204">Мария Иванова</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="101.79174"
+       y="-38.357849"
+       id="text4150"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4152"
+         x="101.79174"
+         y="-38.357849">Александра Иванова</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="310"
+       y="-126.63782"
+       id="text4154"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4156"
+         x="310"
+         y="-126.63782">13</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 101.82338,-89.58832 578.41334,0"
+       id="path4166"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4168"
+       d="m 101.82338,-57.86597 578.41334,0"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 101.82338,-26.21198 578.41334,0"
+       id="path4170"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4172"
+       d="m 101.82338,2.8375202 578.41334,0"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 101.82338,34.67608 578.41334,0"
+       id="path4174"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4176"
+       d="m 101.82338,-118.63782 578.41334,0"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4182"
+       y="-126.63782"
+       x="339.54523"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-126.63782"
+         x="339.54523"
+         id="tspan4184"
+         sodipodi:role="line">16</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="369.37756"
+       y="-126.6554"
+       id="text4186"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4188"
+         x="369.37756"
+         y="-126.6554">18</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4190"
+       y="-126.45618"
+       x="399.85443"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-126.45618"
+         x="399.85443"
+         id="tspan4192"
+         sodipodi:role="line">24</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="430.46606"
+       y="-126.45618"
+       id="text4194"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4196"
+         x="430.46606"
+         y="-126.45618">27</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4198"
+       y="-126.45618"
+       x="460.94293"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-126.45618"
+         x="460.94293"
+         id="tspan4200"
+         sodipodi:role="line">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3843);fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+       x="484.6991"
+       y="-126.63782"
+       id="text4202"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4204"
+         x="484.6991"
+         y="-126.63782">5</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4206"
+       y="-126.6261"
+       x="509.83807"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-126.6261"
+         x="509.83807"
+         id="tspan4208"
+         sodipodi:role="line">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="533.00244"
+       y="-126.45618"
+       id="text4210"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4212"
+         x="533.00244"
+         y="-126.45618">11</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4214"
+       y="-126.63782"
+       x="562.2547"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-126.63782"
+         x="562.2547"
+         id="tspan4216"
+         sodipodi:role="line">13</tspan></text>
+    <rect
+       style="fill:url(#linearGradient3843);fill-opacity:1;stroke:none"
+       id="rect4221"
+       width="24.04163"
+       height="3.5355339"
+       x="476.72339"
+       y="-122.17334" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="591.79993"
+       y="-126.63782"
+       id="text4225"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4227"
+         x="591.79993"
+         y="-126.63782">15</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4229"
+       y="-126.45618"
+       x="621.39789"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-126.45618"
+         x="621.39789"
+         id="tspan4231"
+         sodipodi:role="line">17</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="651.18921"
+       y="-126.6261"
+       id="text4233"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4235"
+         x="651.18921"
+         y="-126.6261">19</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4237"
+       y="-149.80939"
+       x="355.26172"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-149.80939"
+         x="355.26172"
+         id="tspan4239"
+         sodipodi:role="line">март</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#535353;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="548.05865"
+       y="-149.80939"
+       id="text4241"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4243"
+         x="548.05865"
+         y="-149.80939">апрель</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 287.5,-143.13782 162.5,0 0,12.5"
+       id="path4245"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 455.73032,-130.68868 0,-12.37437 223.44574,0"
+       id="path4247"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use4287"
+       d="m 457.88787,-102.19945 5.06211,5.06211 6.83671,-11.84154"
+       style="fill:none;stroke:#00b927;stroke-width:2.80849361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       id="g4297"
+       style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0.33639469,0,0,0.33639469,395.33826,-322.90819)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4289"
+         d="M 21.213203,669.81741 51.088465,639.5886"
+         style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4291"
+         d="m 21.213203,639.5886 29.875262,30.22881"
+         style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="use4347"
+       style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0.33639469,0,0,0.33639469,451.67633,-294.62392)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4429"
+         d="M 21.213203,669.81741 51.088465,639.5886"
+         style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4431"
+         d="m 21.213203,639.5886 29.875262,30.22881"
+         style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(0.33639469,0,0,0.33639469,395.33826,-233.10563)"
+       style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="use4351">
+      <path
+         style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 21.213203,669.81741 51.088465,639.5886"
+         id="path4407"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 21.213203,639.5886 29.875262,30.22881"
+         id="path4409"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="use4353"
+       d="m 401.5498,18.7158 5.06211,5.06211 6.83671,-11.84154"
+       style="fill:none;stroke:#00b927;stroke-width:2.80849361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#00b927;stroke-width:2.80849361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 457.88787,18.7158 5.06211,5.06211 6.83671,-11.84154"
+       id="use4357"
+       inkscape:connector-curvature="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4353"
+       id="use4359"
+       transform="translate(0,31.1127)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4359"
+       id="use4361"
+       transform="translate(56.33807,-1.5195906e-7)"
+       width="744.09448"
+       height="1052.3622" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffe246;fill-opacity:1;stroke:#ffffff;stroke-width:5.40000057;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4363"
+       sodipodi:cx="43.487068"
+       sodipodi:cy="708.35474"
+       sodipodi:rx="22.273863"
+       sodipodi:ry="22.273863"
+       d="m 65.760931,708.35474 a 22.273863,22.273863 0 1 1 -44.547726,0 22.273863,22.273863 0 1 1 44.547726,0 z"
+       transform="matrix(0.26469301,0,0,0.26469301,303.8589,-229.79687)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4363"
+       id="use4365"
+       transform="translate(148.46766,-1.5195917e-7)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4365"
+       id="use4367"
+       transform="translate(0,29.69849)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4367"
+       id="use4369"
+       transform="translate(-26.723972,-1.5195906e-7)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4369"
+       id="use4371"
+       transform="translate(0,61.51829)"
+       width="744.09448"
+       height="1052.3622" />
+    <path
+       transform="matrix(0.2222222,0,0,0.2222222,305.70583,-261.23076)"
+       d="m 65.760931,708.35474 a 22.273863,22.273863 0 1 1 -44.547726,0 22.273863,22.273863 0 1 1 44.547726,0 z"
+       sodipodi:ry="22.273863"
+       sodipodi:rx="22.273863"
+       sodipodi:cy="708.35474"
+       sodipodi:cx="43.487068"
+       id="use4373"
+       style="fill:#77f292;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4373"
+       id="use4389"
+       transform="translate(31.112691,-1.5195914e-7)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(60.104069,-1.5195914e-7)"
+       id="use4393"
+       xlink:href="#use4373"
+       y="0"
+       x="0" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(121.74368,28.99138)"
+       id="use4395"
+       xlink:href="#use4373"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4373"
+       id="use4397"
+       transform="translate(60.104069,28.99138)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(92.129587,28.99138)"
+       id="use4411"
+       xlink:href="#use4373"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4373"
+       id="use4413"
+       transform="translate(0,28.99138)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4363"
+       id="use4415"
+       transform="translate(31.11269,-1.5195917e-7)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(60.104068,-1.5195917e-7)"
+       id="use4419"
+       xlink:href="#path4363"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4363"
+       id="use4423"
+       transform="translate(92.129586,-1.5195917e-7)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4373"
+       id="use4457"
+       transform="translate(31.112691,91.49138)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(60.104069,91.49138)"
+       id="use4459"
+       xlink:href="#use4373"
+       y="0"
+       x="0" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(0,91.49138)"
+       id="use4461"
+       xlink:href="#use4373"
+       y="0"
+       x="0" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(31.112691,122.49138)"
+       id="use4463"
+       xlink:href="#use4373"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4373"
+       id="use4465"
+       transform="translate(60.104069,122.49138)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4373"
+       id="use4467"
+       transform="translate(0,122.49138)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4373"
+       id="use4469"
+       transform="translate(31.112691,153.49138)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(60.104069,153.49138)"
+       id="use4471"
+       xlink:href="#use4373"
+       y="0"
+       x="0" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(0,153.49138)"
+       id="use4473"
+       xlink:href="#use4373"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4373"
+       id="use4475"
+       transform="translate(121.74368,61.49138)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(121.74368,121.49138)"
+       id="use4477"
+       xlink:href="#use4373"
+       y="0"
+       x="0" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(31.11269,-32.5)"
+       id="use4479"
+       xlink:href="#path4363"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4363"
+       id="use4481"
+       transform="translate(121.74368,-62.5)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(173.19849,-62)"
+       id="use4483"
+       xlink:href="#path4363"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4363"
+       id="use4485"
+       transform="translate(173.19849,29)"
+       width="744.09448"
+       height="1052.3622" />
+    <g
+       id="g3964"
+       transform="matrix(0.68170413,0,0,0.68170413,66.462363,-564.95825)">
+      <path
+         transform="matrix(0.84320243,0,0,0.84320243,27.307428,107.79376)"
+         d="m 199.84375,664.03125 a 2.2536948,2.2536948 0 0 0 -1.6875,1.15625 l -8.5,15.5625 a 2.2536948,2.2536948 0 0 0 1.96875,3.34375 l 16.96875,0 a 2.2536948,2.2536948 0 0 0 1.96875,-3.3125 l -8.46875,-15.5625 a 2.2536948,2.2536948 0 0 0 -2.25,-1.1875 z"
+         id="path3958"
+         style="fill:#ffff73;fill-opacity:1;stroke:#3a3a0c;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:original="M 200.125 666.28125 L 191.625 681.84375 L 208.59375 681.84375 L 200.125 666.28125 z "
+         inkscape:radius="2.2534695"
+         sodipodi:type="inkscape:offset" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3960"
+         y="681.92664"
+         x="193.83565"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+         xml:space="preserve"><tspan
+           y="681.92664"
+           x="193.83565"
+           id="tspan3962"
+           sodipodi:role="line">!</tspan></text>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3964"
+       id="use3969"
+       transform="translate(47,62)"
+       width="744.09448"
+       height="1052.3622" />
+    <path
+       style="fill:#9cb2cf;fill-opacity:1;stroke:none"
+       d="m 256.5,-142.84835 15,-11.8421 0,22.10526 z"
+       id="path3971"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3971"
+       id="use3973"
+       transform="matrix(-1,0,0,1,963,-1.5195906e-7)"
+       width="744.09448"
+       height="1052.3622" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Mark editor"
+     transform="translate(0,947.63782)"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 114.25,309.86218 c -1.83255,1.8e-4 -3.49982,1.66745 -3.5,3.5 l 0,27.6302 -5.3125,5.73852 5.13572,5.73851 0.17678,59.89277 c 1.8e-4,1.8325 1.66745,3.4998 3.5,3.5 l 111.75,0 c 1.83255,-2e-4 3.49982,-1.6675 3.5,-3.5 l 0,-99 c -1.8e-4,-1.83255 -1.66745,-3.49982 -3.5,-3.5 z"
+       id="path4012"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#2c2c2c;stroke-width:2.25000024;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="use4015"
+       sodipodi:cx="43.487068"
+       sodipodi:cy="708.35474"
+       sodipodi:rx="22.273863"
+       sodipodi:ry="22.273863"
+       d="m 65.760931,708.35474 a 22.273863,22.273863 0 1 1 -44.547726,0 22.273863,22.273863 0 1 1 44.547726,0 z"
+       transform="matrix(0.2222222,0,0,0.2222222,115.20583,188.76062)" />
+    <rect
+       style="fill:url(#linearGradient3809);fill-opacity:1;stroke:none"
+       id="rect4078"
+       width="25.535534"
+       height="25.535534"
+       x="178.51025"
+       y="332.448"
+       rx="4.3771653"
+       ry="4.3771653" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(-169.2461,449.99138)"
+       id="use4018"
+       xlink:href="#use4373"
+       y="0"
+       x="0"
+       style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="119.5"
+       y="325.86218"
+       id="text4022"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4024"
+         x="119.5"
+         y="325.86218"
+         style="font-size:12px;fill:#656565;fill-opacity:1">Отметка:</tspan></text>
+    <path
+       transform="matrix(0.26469301,0,0,0.26469301,179.27736,157.67622)"
+       d="m 65.760931,708.35474 a 22.273863,22.273863 0 1 1 -44.547726,0 22.273863,22.273863 0 1 1 44.547726,0 z"
+       sodipodi:ry="22.273863"
+       sodipodi:rx="22.273863"
+       sodipodi:cy="708.35474"
+       sodipodi:cx="43.487068"
+       id="use4026"
+       style="fill:#ffe246;fill-opacity:1;stroke:#ffffff;stroke-width:5.40000057;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff692d;fill-opacity:1;stroke:#ffffff;stroke-width:5.40000057;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path4031"
+       sodipodi:cx="43.487068"
+       sodipodi:cy="708.35474"
+       sodipodi:rx="22.273863"
+       sodipodi:ry="22.273863"
+       d="m 65.760931,708.35474 a 22.273863,22.273863 0 1 1 -44.547726,0 22.273863,22.273863 0 1 1 44.547726,0 z"
+       transform="matrix(0.26469301,0,0,0.26469301,203.60259,157.67622)" />
+    <g
+       id="g4033"
+       style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       transform="matrix(0.33639469,0,0,0.33639469,203.70867,149.73123)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4035"
+         d="M 21.213203,669.81741 51.088465,639.5886"
+         style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4037"
+         d="m 21.213203,639.5886 29.875262,30.22881"
+         style="fill:#c80000;fill-opacity:1;stroke:#f30000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="121"
+       y="401.86218"
+       id="text4046"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4048"
+         x="121"
+         y="401.86218"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3843);fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma">5</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4050"
+       y="401.86218"
+       x="143.79883"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3843);fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+         y="401.86218"
+         x="143.79883"
+         id="tspan4052"
+         sodipodi:role="line">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="166.59082"
+       y="401.86218"
+       id="text4054"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4056"
+         x="166.59082"
+         y="401.86218"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3843);fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma">3</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4058"
+       y="401.86218"
+       x="188.85645"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3843);fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+         y="401.86218"
+         x="188.85645"
+         id="tspan4060"
+         sodipodi:role="line">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="210.5"
+       y="401.86218"
+       id="text4062"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4064"
+         x="210.5"
+         y="401.86218"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3843);fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma">1</tspan></text>
+    <path
+       style="fill:none;stroke:#00b927;stroke-width:2.80849361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 120.67411,369.8285 5.06211,5.06211 6.83671,-11.84154"
+       id="use4042"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4148"
+       style="fill:#c80000;fill-opacity:1;stroke:#a9a9a9;stroke-width:5.9453969;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       transform="matrix(0.33639469,0,0,0.33639469,206.48998,100.85508)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4150"
+         d="M 21.213203,669.81741 51.088465,639.5886"
+         style="fill:#c80000;fill-opacity:1;stroke:#a9a9a9;stroke-width:5.9453969;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4152"
+         d="m 21.213203,639.5886 29.875262,30.22881"
+         style="fill:#c80000;fill-opacity:1;stroke:#a9a9a9;stroke-width:5.9453969;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Reminder editor"
+     style="display:inline"
+     transform="translate(0,800)">
+    <path
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4068"
+       d="m 316.25,457.5 c -1.83255,1.8e-4 -3.49982,1.66745 -3.5,3.5 l 0,27.6302 -5.3125,5.73852 5.13572,5.73851 L 312.75,676.5 c 1.8e-4,1.8325 1.66745,3.4998 3.5,3.5 l 295.75357,0 c 1.83255,-2e-4 3.49982,-1.6675 3.5,-3.5 l 0,-215.5 c -1.8e-4,-1.83255 -1.66745,-3.49982 -3.5,-3.5 z"
+       style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;display:inline" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4072"
+       y="473.5"
+       x="323"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         style="font-size:12px;fill:#656565;fill-opacity:1"
+         y="473.5"
+         x="323"
+         id="tspan4074"
+         sodipodi:role="line">Напоминания для Ивана:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="322.29291"
+       y="504.2782"
+       id="text4080"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4082"
+         x="322.29291"
+         y="504.2782"
+         style="font-size:12px;fill:#656565;fill-opacity:1">12 мар</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="395.83765"
+       y="506.45374"
+       id="text4084"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4086"
+         x="395.83765"
+         y="506.45374">Объяснить закон Бернулли</tspan><tspan
+         sodipodi:role="line"
+         x="395.83765"
+         y="523.95374"
+         id="tspan4088">в применении к идеальной</tspan><tspan
+         sodipodi:role="line"
+         x="395.83765"
+         y="541.45374"
+         id="tspan4090">жидкости</tspan></text>
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 323.1478,554.537 260.9224,0"
+       id="path4092"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4094"
+       y="579.23163"
+       x="322.29291"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         style="font-size:12px;fill:#656565;fill-opacity:1"
+         y="579.23163"
+         x="322.29291"
+         id="tspan4096"
+         sodipodi:role="line">15 мар</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4098"
+       y="579.9928"
+       x="395.83765"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         id="tspan4104"
+         y="579.9928"
+         x="395.83765"
+         sodipodi:role="line">Лаб. №2</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4111"
+       d="m 323.1478,596.2563 260.9224,0"
+       style="fill:none;stroke:#666666;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="322.29291"
+       y="620.95093"
+       id="text4113"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4115"
+         x="322.29291"
+         y="620.95093"
+         style="font-size:12px;fill:#656565;fill-opacity:1">18 мар</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="395.83765"
+       y="621.71222"
+       id="text4117"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="395.83765"
+         y="621.71222"
+         id="tspan4119">За прогул сделать реферат</tspan><tspan
+         sodipodi:role="line"
+         x="395.83765"
+         y="639.21222"
+         id="tspan4121">по законам термодинамики</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4129"
+       y="667.67407"
+       x="395.83765"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3843);fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         id="tspan4133"
+         y="667.67407"
+         x="395.83765"
+         sodipodi:role="line">Добавить…</tspan></text>
+    <path
+       style="fill:url(#linearGradient3843);stroke:url(#linearGradient3843);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m 394.777,669.7951 73.89266,0"
+       id="path4137"
+       inkscape:connector-curvature="0" />
+    <use
+       style="display:inline"
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(90,1113.6378)"
+       id="use4139"
+       xlink:href="#use4011"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4011"
+       id="use4144"
+       transform="translate(90,1187.6378)"
+       width="744.09448"
+       height="1052.3622"
+       style="display:inline" />
+    <use
+       style="display:inline"
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(90,1230.6378)"
+       id="use4146"
+       xlink:href="#use4011"
+       y="0"
+       x="0" />
+    <g
+       transform="matrix(0.33639469,0,0,0.33639469,590.48998,249.4929)"
+       style="fill:#c80000;fill-opacity:1;stroke:#a9a9a9;stroke-width:5.9453969;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="g4123">
+      <path
+         style="fill:#c80000;fill-opacity:1;stroke:#a9a9a9;stroke-width:5.9453969;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 21.213203,669.81741 51.088465,639.5886"
+         id="path4125"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#c80000;fill-opacity:1;stroke:#a9a9a9;stroke-width:5.9453969;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 21.213203,639.5886 29.875262,30.22881"
+         id="path4127"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g4157"
+       style="fill:#c80000;fill-opacity:1;stroke:#ff7171;stroke-width:5.9453969;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       transform="matrix(0.33639469,0,0,0.33639469,588.98998,280.9929)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4159"
+         d="M 21.213203,669.81741 51.088465,639.5886"
+         style="fill:#c80000;fill-opacity:1;stroke:#ff7171;stroke-width:5.9453969;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4161"
+         d="m 21.213203,639.5886 29.875262,30.22881"
+         style="fill:#c80000;fill-opacity:1;stroke:#ff7171;stroke-width:5.9453969;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4157"
+       id="use4163"
+       transform="translate(0,73)"
+       width="744.09448"
+       height="1200" />
+    <use
+       height="1200"
+       width="744.09448"
+       transform="translate(0,115.5)"
+       id="use4165"
+       xlink:href="#g4157"
+       y="0"
+       x="0" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#use3969"
+       id="use4167"
+       transform="translate(55,536.13782)"
+       width="744.09448"
+       height="1200" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Plan editor"
+     transform="translate(0,800)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4195"
+       y="855"
+       x="95.82338"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6446);fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         style="fill:url(#linearGradient6446);fill-opacity:1"
+         y="855"
+         x="95.82338"
+         id="tspan4197"
+         sodipodi:role="line">Добавить занятия</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4199"
+       d="m 95.45795,856.978 116.54443,0"
+       style="fill:none;stroke:url(#linearGradient3843);stroke-width:1.07735562;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.07735562, 1.07735562;stroke-dashoffset:0;display:inline" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#404040;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;display:inline"
+       d="m 225.25,814.5 c -1.83255,2e-4 -3.49982,1.6675 -3.5,3.5 l 0,27.6302 -5.3125,5.7385 5.13572,5.7385 0.17678,262.4588 c 1.8e-4,1.8325 1.66745,3.4998 3.5,3.5 l 295.75357,0 c 1.83255,-2e-4 3.49982,-1.6675 3.5,-3.5 l 0,-301.566 c -1.8e-4,-1.8325 -1.66745,-3.4998 -3.5,-3.5 z"
+       id="path4173"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <g
+       id="g4175"
+       style="fill:#c80000;fill-opacity:1;stroke:#a9a9a9;stroke-width:5.9453969;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       transform="matrix(0.33639469,0,0,0.33639469,497.48998,608.4929)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4177"
+         d="M 21.213203,669.81741 51.088465,639.5886"
+         style="fill:#c80000;fill-opacity:1;stroke:#a9a9a9;stroke-width:5.9453969;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4179"
+         d="m 21.213203,639.5886 29.875262,30.22881"
+         style="fill:#c80000;fill-opacity:1;stroke:#a9a9a9;stroke-width:5.9453969;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="229"
+       y="831.5"
+       id="text4185"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4187"
+         x="229"
+         y="831.5"
+         style="font-size:12px;fill:#656565;fill-opacity:1">Добавить занятие:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4289"
+       y="877.5"
+       x="229"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         style="font-size:12px;fill:#656565;fill-opacity:1"
+         y="877.5"
+         x="229"
+         id="tspan4291"
+         sodipodi:role="line">Предмет: </tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#8a8a8a;stroke-width:0.46245417;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4333"
+       width="180.34978"
+       height="19.836535"
+       x="335.68539"
+       y="862.90521" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="346.24265"
+       y="877.5"
+       id="text4293"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4295"
+         x="346.24265"
+         y="877.5">Лин. алгебра</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="229.94336"
+       y="912.0835"
+       id="text4297"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4299"
+         x="229.94336"
+         y="912.0835"
+         style="font-size:12px;fill:#656565;fill-opacity:1">Аудитория:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4301"
+       y="946.66687"
+       x="229.7793"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         style="font-size:12px;fill:#656565;fill-opacity:1"
+         y="946.66687"
+         x="229.7793"
+         id="tspan4303"
+         sodipodi:role="line">Дата:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="229"
+       y="980.81079"
+       id="text4305"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4307"
+         x="229"
+         y="980.81079"
+         style="font-size:12px;fill:#656565;fill-opacity:1">Примечание:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4309"
+       y="1015.3943"
+       x="230.41422"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         style="font-size:12px;fill:#656565;fill-opacity:1"
+         y="1015.3943"
+         x="230.41422"
+         id="tspan4311"
+         sodipodi:role="line">Повтор:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4313"
+       y="912.0835"
+       x="345.60007"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="912.0835"
+         x="345.60007"
+         id="tspan4315"
+         sodipodi:role="line">201</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="344.80026"
+       y="946.66687"
+       id="text4317"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4319"
+         x="344.80026"
+         y="946.66687">15 марта</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4321"
+       y="1015.9634"
+       x="335.34894"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="1015.9634"
+         x="335.34894"
+         id="tspan4323"
+         sodipodi:role="line">один раз</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="335.33527"
+       y="1037.8837"
+       id="text4325"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4327"
+         x="335.33527"
+         y="1037.8837">еженедельно</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4329"
+       y="1058.511"
+       x="334.8089"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="1058.511"
+         x="334.8089"
+         id="tspan4331"
+         sodipodi:role="line">каждые 2 недели</tspan></text>
+    <rect
+       y="897.55322"
+       x="335.68539"
+       height="19.836535"
+       width="180.34978"
+       id="rect4335"
+       style="fill:none;stroke:#8a8a8a;stroke-width:0.46245417;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:none;stroke:#8a8a8a;stroke-width:0.46245417;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4337"
+       width="180.34978"
+       height="19.836535"
+       x="335.68539"
+       y="932.90869" />
+    <rect
+       y="966.1427"
+       x="335.68539"
+       height="19.836535"
+       width="180.34978"
+       id="rect4339"
+       style="fill:none;stroke:#8a8a8a;stroke-width:0.46245417;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8a8a8a;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4341"
+       sodipodi:cx="317.84451"
+       sodipodi:cy="1443.5983"
+       sodipodi:rx="5.3033009"
+       sodipodi:ry="5.3033009"
+       d="m 323.14781,1443.5983 a 5.3033009,5.3033009 0 1 1 -10.6066,0 5.3033009,5.3033009 0 1 1 10.6066,0 z"
+       transform="translate(5.242641,-431.82843)" />
+    <path
+       transform="translate(5.242641,-409.90812)"
+       d="m 323.14781,1443.5983 a 5.3033009,5.3033009 0 1 1 -10.6066,0 5.3033009,5.3033009 0 1 1 10.6066,0 z"
+       sodipodi:ry="5.3033009"
+       sodipodi:rx="5.3033009"
+       sodipodi:cy="1443.5983"
+       sodipodi:cx="317.84451"
+       id="path4343"
+       style="fill:none;stroke:#8a8a8a;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#8a8a8a;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4345"
+       sodipodi:cx="317.84451"
+       sodipodi:cy="1443.5983"
+       sodipodi:rx="5.3033009"
+       sodipodi:ry="5.3033009"
+       d="m 323.14781,1443.5983 a 5.3033009,5.3033009 0 1 1 -10.6066,0 5.3033009,5.3033009 0 1 1 10.6066,0 z"
+       transform="translate(5.242641,-389.40202)" />
+    <rect
+       style="fill:#295fc2;fill-opacity:1;stroke:none"
+       id="rect4347"
+       width="98.994949"
+       height="28.284269"
+       x="417.84985"
+       y="1085.1772"
+       rx="3"
+       ry="3" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="436.38965"
+       y="1103.9877"
+       id="text4349"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4351"
+         x="436.38965"
+         y="1103.9877">Добавить</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6442);fill-opacity:1;stroke:none;display:inline;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="343.82336"
+       y="1104"
+       id="text4353"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="343.82336"
+         y="1104"
+         style="fill:url(#linearGradient6442);fill-opacity:1"
+         id="tspan4363">Отменить</tspan></text>
+    <path
+       style="fill:none;stroke:url(#linearGradient3843);stroke-width:0.79235196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.79235194, 0.79235194;stroke-dashoffset:0;display:inline"
+       d="m 343.21064,1105.978 63.03905,0"
+       id="path4357"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Comments"
+     transform="translate(0,200)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text6406"
+       y="995.14221"
+       x="311.57718"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb309e;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         id="tspan6408"
+         y="995.14221"
+         x="311.57718"
+         sodipodi:role="line">Редактор напоминаний. При клике на значок</tspan><tspan
+         y="1011.3922"
+         x="311.57718"
+         sodipodi:role="line"
+         id="tspan6410">карандаша (или дату) текст превращается в поле </tspan><tspan
+         y="1027.6422"
+         x="311.57718"
+         sodipodi:role="line"
+         id="tspan6412">редактирования.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb309e;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="341.20102"
+       y="-133.08327"
+       id="text5108"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5110"
+         x="341.20102"
+         y="-133.08327">Что если групп очень много?</tspan><tspan
+         sodipodi:role="line"
+         x="341.20102"
+         y="-116.83326"
+         id="tspan6304">Кстати, при выборе группы можно анимировать </tspan><tspan
+         sodipodi:role="line"
+         x="341.20102"
+         y="-100.58326"
+         id="tspan6306">скрытие/показ элементов списка</tspan></text>
+    <path
+       style="fill:#bb309e;fill-opacity:0.94901961;stroke:#bb309e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94901961;marker-mid:none;marker-end:url(#Arrow1Mend)"
+       d="m 359,-95 1,76"
+       id="path5120"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6298"
+       y="-42.857857"
+       x="408.57718"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb309e;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="-42.857857"
+         x="408.57718"
+         id="tspan6300"
+         sodipodi:role="line">Ссылка на страницу с отметками по предмету</tspan></text>
+    <path
+       style="fill:#bb309e;fill-opacity:1;stroke:#bb309e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 406,-54 0,107"
+       id="path6302"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb309e;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="269.57718"
+       y="281.14215"
+       id="text6308"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6310"
+         x="269.57718"
+         y="281.14215">Открывают диалог редактирования </tspan><tspan
+         sodipodi:role="line"
+         x="269.57718"
+         y="297.39215"
+         id="tspan6312">предмета. Клик по времени тоже.</tspan></text>
+    <path
+       style="fill:#bb309e;fill-opacity:1;stroke:url(#linearGradient6326);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 264,279 213,232"
+       id="path6314"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:url(#linearGradient6322);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 285.67114,267.24228 -5.65685,-74.24621"
+       id="path6328"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6354"
+       y="435.14215"
+       x="272.57718"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb309e;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         id="tspan6358"
+         y="435.14215"
+         x="272.57718"
+         sodipodi:role="line">Если групп много, лишние скрываются</tspan></text>
+    <path
+       style="fill:none;stroke:url(#linearGradient6322);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 320,443 298,547"
+       id="path6362"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb309e;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="424.57718"
+       y="457.14215"
+       id="text6364"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="424.57718"
+         y="457.14215"
+         id="tspan6366">Текущая дата выделена линией</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6368"
+       y="376.14215"
+       x="274.57715"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb309e;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         y="376.14215"
+         x="274.57715"
+         sodipodi:role="line"
+         id="tspan6372">Если кликнуть на день, то вертикальная полоса подсвечивает этот </tspan><tspan
+         y="392.39215"
+         x="274.57715"
+         sodipodi:role="line"
+         id="tspan6374">день. Дни можно таскать, а  также прокручивать треугольниками, причем </tspan><tspan
+         y="408.64215"
+         x="274.57715"
+         sodipodi:role="line"
+         id="tspan6376">если зажать треугольник, то полоска двигается сама.</tspan></text>
+    <path
+       style="fill:none;stroke:url(#linearGradient6322);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 499,468 -8,127"
+       id="path6384"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6386"
+       y="880.14221"
+       x="84.577179"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb309e;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         id="tspan6388"
+         y="880.14221"
+         x="84.577179"
+         sodipodi:role="line">К этому студенту есть замечания.</tspan><tspan
+         y="896.39221"
+         x="84.577179"
+         sodipodi:role="line"
+         id="tspan6402">Клик по значку открывает</tspan><tspan
+         y="912.64221"
+         x="84.577179"
+         sodipodi:role="line"
+         id="tspan6404">редактор напоминаний.</tspan></text>
+    <path
+       style="fill:none;stroke:url(#linearGradient6322);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 234,868 245,717"
+       id="path6390"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb309e;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="111.57718"
+       y="1028.1422"
+       id="text6392"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="111.57718"
+         y="1028.1422"
+         id="tspan6394">Редактор отметки</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb309e;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       x="336.57718"
+       y="863.14221"
+       id="text6396"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="336.57718"
+         y="863.14221"
+         id="tspan6398">При клике на отметку открывется</tspan><tspan
+         sodipodi:role="line"
+         x="336.57718"
+         y="879.39221"
+         id="tspan6400">редактор отметки.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6422"
+       y="1385.1422"
+       x="222.57718"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb309e;fill-opacity:1;stroke:none;font-family:Tahoma;-inkscape-font-specification:Tahoma"
+       xml:space="preserve"><tspan
+         id="tspan6424"
+         y="1385.1422"
+         x="222.57718"
+         sodipodi:role="line">Редактор расписания</tspan></text>
+  </g>
+  <path
+     style="fill:#b9b9b9;fill-opacity:1;stroke:none"
+     d="m 524.28293,748.40901 8.93414,0 -4.46707,10.67232 z"
+     id="path4128"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+</svg>
