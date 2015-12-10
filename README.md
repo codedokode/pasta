@@ -18,7 +18,11 @@
 
 ### network/
 
-- [Протокол HTTP](network/http.md)
+- [Протокол HTTP (черновик)](network/http.md)
+
+### php/
+
+- [Автозагрузка, неймспейсы и PSR-4](php/autoload.md)
 
 ### security/
 
