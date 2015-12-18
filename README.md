@@ -19,6 +19,7 @@
 ### network/
 
 - [Протокол HTTP (черновик)](network/http.md)
+- [Структура URL, абсолютные и относительные ссылки](network/urls.md)
 
 ### php/
 
