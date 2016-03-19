@@ -35,6 +35,12 @@
 - [Уязвимость XSRF](security/xsrf.md)
 - [Уязвимость XSS в PHP-скриптах и как ее избежать](security/xss.md)
 
+### soft/
+
+- [Установка Апача с PHP](soft/apache-install.md)
+- [Как начать пользоваться командной строкой](soft/cli.md)
+- [Установка и настройка PHP](soft/php-install.md)
+
 
 
 Вопросы/советы/замечания — шлите на codedokode@gmail.com
