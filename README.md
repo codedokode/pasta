@@ -18,6 +18,7 @@
 
 ### js/
 
+- [Изучаем MVC на примере игры «Сапер»](js/minesweeper-mvc.md)
 - [Задачка на создание SPA приложения](js/spa.md)
 
 ### network/
@@ -40,6 +41,7 @@
 - [Установка Апача с PHP](soft/apache-install.md)
 - [Как начать пользоваться командной строкой](soft/cli.md)
 - [Установка и настройка PHP](soft/php-install.md)
+- [Настраиваем веб-сервер для работы с PHP из браузера](soft/web-server.md)
 
 
 
