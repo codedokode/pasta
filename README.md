@@ -7,6 +7,10 @@
 - [Задачи с собеседований](interview-tasks.md)
 - [Задача про список студентов](student-list.md)
 
+### arch/
+
+- [Зачем нужно Dependency Injection (и что это?)](arch/di.md)
+
 ### db/
 
 - [Паттерны работы с базой данных](db/patterns-oop.md)
