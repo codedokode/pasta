@@ -438,8 +438,10 @@ DocumentRoot /var/www/example.com/public
 
 ## Примеры работ
 
-Полезно бывает посмотреть другие варианты решения той же задачи. Однако, я советую тебе сначала решить ее самому, а только потом сравнивать - иначе ты вместо написания и обдумывания своего кода можешь начать подсознательно копировать ранее увиденное. Другие варианты решения ищутся поиском по гитхабу: https://github.com/search?l=PHP&q=student+list&ref=searchresults&type=Repositories&utf8=%E2%9C%93
+Полезно бывает посмотреть другие варианты решения той же задачи. Однако, я советую тебе сначала решить ее самому, а только потом сравнивать - иначе ты вместо написания и обдумывания своего кода можешь начать подсознательно копировать ранее увиденное. Другие варианты решения ищутся поиском по гитхабу:
+
+- https://github.com/search?l=PHP&q=student+list&ref=searchresults&type=Repositories&utf8=%E2%9C%93
+- https://github.com/search?l=PHP&q=student+registration&ref=searchresults&type=Repositories&utf8=%E2%9C%93
 
 (чтобы попасть в этот список, добавь в описание своего репозитория слова "student list" и "registration")
 
-Если убрать слово "list", то результатов будет намного больше: https://github.com/search?l=PHP&q=student&ref=searchresults&type=Repositories&utf8=%E2%9C%93
