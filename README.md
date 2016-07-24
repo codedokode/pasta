@@ -38,6 +38,7 @@
 
 ### security/
 
+- [SQL-инъекция (внедрение SQL кода) и способы борьбы с ней](security/sql-injection.md)
 - [Уязвимость XSRF](security/xsrf.md)
 - [Уязвимость XSS в PHP-скриптах и как ее избежать](security/xss.md)
 
