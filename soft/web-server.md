@@ -132,7 +132,7 @@ header("Content-Type: text/plain; charset=utf-8");
 
 Апач сложнее чем встроенный сервер, но дает больше возможностей. 
 
-Урок: (../soft/apache-install.md)
+Урок: [Установка Апача](../soft/apache-install.md)
 
 ## Что делать дальше
 
