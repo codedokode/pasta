@@ -35,6 +35,7 @@
 
 - [Автозагрузка, неймспейсы и PSR-4](php/autoload.md)
 - [Как использовать исключения в PHP](php/exceptions.md)
+- [Интерфейсы в ООП](php/interfaces.md)
 
 ### security/
 
