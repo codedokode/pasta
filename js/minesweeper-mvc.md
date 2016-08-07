@@ -462,6 +462,6 @@ if (historyManager.canUndo()) { ... }
 
 ## Посмотреть примеры кода
 
-Ты можешь попробовать поискать примеры реализации игры "Сапер" на гитхабе: https://github.com/search?l=JavaScript&q=minesweeper&type=Repositories&utf8=%E2%9C%93
+Ты можешь попробовать поискать примеры реализации игры "Сапер" на гитхабе: https://github.com/search?l=JavaScript&q=minesweeper+mvc&ref=searchresults&type=Repositories&utf8=%E2%9C%93
 
 Хочешь попасть в Зал Славы и стать примером для новичков? Добавь в название или описание своего проекта на Гитхабе слова `minesweeper` и `MVC`.
