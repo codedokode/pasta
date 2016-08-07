@@ -101,7 +101,7 @@ img { border: 1px dashed black; }
 ![1](http://i.imgur.com/Zav7asd.png)
 
 - в этом задании нельзя использовать свойства `position`, `float` или `display` (почему? потому, что без них проще).
-- подсказка: чтобы решить это задание, необходимо сначала изучить такие свойства CSS: `width`, `height`, `margin`, `padding`, `border`, `text-align`, `background-color`, `color`, `font`, `line-height`, `font-weight`, `font-style` и боксовую модель: http://htmlbook.ru/samlayout/blochnaya-verstka/blochnaya-model
+- подсказка: чтобы решить это задание, необходимо сначала изучить такие свойства CSS: `width`, `height`, `margin`, `padding`, `border`, `text-align`, `background-color`, `color`, `font`, `line-height`, `font-weight`, `font-style` и боксовую модель: http://htmlbook.ru/samlayout/blochnaya-verstka/blochnaya-model или https://developer.mozilla.org/ru/docs/Web/CSS/box_model
 - подсказка: http://softwaremaniacs.org/blog/2005/08/27/css-layout-flow/
 - подсказка: полезно будет почитать про единицы измерения в CSS: http://htmlbook.ru/content/edinitsy-izmereniya
 
