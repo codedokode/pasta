@@ -185,7 +185,7 @@ $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 $stmt = $pdo->query("SELECT * FROM table WHERE x = $x"); // Хорошие дети, не делайте так
 ```
 
-Это открывает путь к уязвимости под названием SQL-инъекция: [wiki: внедрение SQL кода](https://ru.wikipedia.org/wiki/%D0%92%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_SQL-%D0%BA%D0%BE%D0%B4%D0%B0), [статья на античате](http://forum.antichat.ru/thread43966.html). 
+Это открывает путь к уязвимости под названием SQL-инъекция: [мой урок по SQL инъекциям](./security/sql-injection.md), [wiki: внедрение SQL кода](https://ru.wikipedia.org/wiki/%D0%92%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_SQL-%D0%BA%D0%BE%D0%B4%D0%B0), [подробная статья на rdot](https://rdot.org/forum/showthread.php?t=124). 
 
 Чтобы уязвимости не было, вставлять все данные в запрос надо через плейсхолдеры:
 
