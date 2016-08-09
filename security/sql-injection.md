@@ -191,6 +191,7 @@ $sql = "SELECT * FROM news ORDER BY $sort LIMIT 10";
 
 - http://php.net/manual/ru/security.database.sql-injection.php
 - https://ru.wikipedia.org/wiki/%D0%92%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_SQL-%D0%BA%D0%BE%D0%B4%D0%B0 
+- https://rdot.org/forum/showthread.php?t=124 (подробная статья)
 
 ## Предупреждение
 

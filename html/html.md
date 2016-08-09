@@ -101,7 +101,7 @@ img { border: 1px dashed black; }
 ![1](http://i.imgur.com/Zav7asd.png)
 
 - в этом задании нельзя использовать свойства `position`, `float` или `display` (почему? потому, что без них проще).
-- подсказка: чтобы решить это задание, необходимо сначала изучить такие свойства CSS: `width`, `height`, `margin`, `padding`, `border`, `text-align`, `background-color`, `color`, `font`, `line-height`, `font-weight`, `font-style` и боксовую модель: http://htmlbook.ru/samlayout/blochnaya-verstka/blochnaya-model
+- подсказка: чтобы решить это задание, необходимо сначала изучить такие свойства CSS: `width`, `height`, `margin`, `padding`, `border`, `text-align`, `background-color`, `color`, `font`, `line-height`, `font-weight`, `font-style` и боксовую модель: http://htmlbook.ru/samlayout/blochnaya-verstka/blochnaya-model или https://developer.mozilla.org/ru/docs/Web/CSS/box_model
 - подсказка: http://softwaremaniacs.org/blog/2005/08/27/css-layout-flow/
 - подсказка: полезно будет почитать про единицы измерения в CSS: http://htmlbook.ru/content/edinitsy-izmereniya
 
@@ -111,6 +111,7 @@ img { border: 1px dashed black; }
 
 - подсказка: в этом задании нельзя использовать свойства `poistion`, `float`, `display` или `width`.
 - подсказка: тебе надо изучить CSS-свойства `min-width`, `max-width`, `min-height`, `max-height`
+- подсказка: свойство `width` по умолчанию задает внутреннюю ширину элемента без учета паддинга или бордера
 
 ### Задание 3
 
@@ -145,6 +146,7 @@ img { border: 1px dashed black; }
 ![6](http://i.imgur.com/2MGgW1k.png)
 
 - ни в коем случае не используй тут свойство `overflow` - оно имеет побочные эффекты
+- пиши CSS правила, чтобы они применялись только к конкретным элементам, и не конфликтовали с другими правилами, которые, возможно, появятся позже. Ну например если написать `li { ... }` то мы применим правило не только к списку в меню, но и ко всем остальным спискам, например в тексте, или в другом меню, которое добавят в будущем. Лучше писать `.menu li { ... }` или даже `.menu > li { ... }` (на случай если в меню появятся вложенные списки и мы не хотим их задеть).
 - подсказка: для верстки меню слева надо использовать теги `<ul>`, `<li>`, `<a>` и по желанию `<nav>`. Для статьи справа можно использовать `<atricle>`
 - подсказка: если удалить весь текст справа или все пункты меню, верстка не должна ломаться. Если добавить несколько пунктов меню или абзацев текста, тоже.
 - подсказка: шрифт — Trebuchet MS, не забудь что он пишется в кавычках в CSS
@@ -230,7 +232,7 @@ img { border: 1px dashed black; }
 
 ### Главное задание на верстку макета
 
-Сверстай макет: http://www.mediafire.com/download/d1j980z595w6owi/pack180-webpaint-home-psd.zip (копия: http://rghost.ru/6L5kMK7q9 ~~http://rghost.ru/58855578 удалено~~ )
+Сверстай макет: http://www.mediafire.com/download/d1j980z595w6owi/pack180-webpaint-home-psd.zip (копия: https://mega.nz/#!0xtxlYTZ!2KZODLd4gND4lPzQMaC93_PcY5cQUJsKNxqmGtAcC20 или  https://drive.google.com/file/d/0Bzrx7iBXaXrubkU4MmpvbnUwMk0/view?usp=sharing  ~~http://rghost.ru/6L5kMK7q9~~ ~~http://rghost.ru/58855578 удалено~~ )
 
 - старайся не использовать `id` в селекторах, так как он не должен повторяться и это сильно ограничивает его использование
 - тебе скорее всего понадобится Photoshop. Бесплатный аналог - GIMP может открывать psd-файлы, но не факт что правильно.
