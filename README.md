@@ -10,6 +10,7 @@
 ### arch/
 
 - [Зачем нужно Dependency Injection (и что это?)](arch/di.md)
+- [Архитектура MVC](arch/mvc.md)
 
 ### db/
 
