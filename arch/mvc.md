@@ -115,7 +115,7 @@ class PostService
 
     private function createPost($title, $phoneNumber, $text)
     {
-        $c = new Classified;
+        $c = new Post;
         $c->title = $title;
         $c->phoneNumber = $phoneNumber;
         $c->text = $text;
