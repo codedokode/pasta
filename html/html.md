@@ -232,7 +232,7 @@ img { border: 1px dashed black; }
 
 ### Главное задание на верстку макета
 
-Сверстай макет: http://www.mediafire.com/download/d1j980z595w6owi/pack180-webpaint-home-psd.zip (копия: http://rghost.ru/6L5kMK7q9 ~~http://rghost.ru/58855578 удалено~~ )
+Сверстай макет: http://www.mediafire.com/download/d1j980z595w6owi/pack180-webpaint-home-psd.zip (копия: ~~http://rghost.ru/6L5kMK7q9~~ ~~http://rghost.ru/58855578 удалено~~ )
 
 - старайся не использовать `id` в селекторах, так как он не должен повторяться и это сильно ограничивает его использование
 - тебе скорее всего понадобится Photoshop. Бесплатный аналог - GIMP может открывать psd-файлы, но не факт что правильно.
