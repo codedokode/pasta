@@ -20,6 +20,7 @@
 ### html/
 
 - [Путь HTML/CSS](html/html.md)
+- [Алгоритм автоматического определения ширины shrink-to-fit в CSS](html/shrink-to-fit.md)
 
 ### js/
 
