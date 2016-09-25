@@ -277,7 +277,7 @@ $loader = new RateLoader();
 $loader->load();
 ```
 
-Допустим, нам захотелось протестировать этот класс и для теста нам надо, чтобы он не скачивал данные с удаленного сайта, а использовал бы подготовленный нами файл. Или например, мы хотим для отладки сделать логгирование - выводить какие именно данные скачиваются. Но сделать этого без правки кода нельзя, так как класс монолитный и заменить компонент, отвечающий за работу с сетью,  невозможно. Исправить эту проблему можно с помощью Dependency Injection. Для этого мы выносим часть кода, которая отвечает за скачивание данных из сети, в отдельный класс `HttpClient`. Вот как теперь выглядит код: 
+Допустим, нам захотелось протестировать этот класс и для теста нам надо, чтобы он не скачивал данные с удаленного сайта, а использовал бы подготовленный нами файл. Или например, мы хотим для отладки сделать логгирование - выводить какие именно данные скачиваются. Но сделать этого без правки кода нельзя, так как класс монолитный и заменить компонент, отвечающий за работу с сетью,  невозможно. Исправить эту проблему можно с помощью Dependency Injection. Для этого мы выносим часть кода, которая отвечает за скачивание данных из сети, в отдельный класс `HttpClient`. Разумеется, мы также вынесем в зависимости класс `RateDBGateway` для работы с базой данных. Вот как теперь выглядит код: 
 
 ```php
 class HttpClient
@@ -288,12 +288,13 @@ class HttpClient
 
 class RateLoader
 {
-    public function __construct(HttpClient $httpClient) { .. }
+    public function __construct(HttpClient $httpClient, RateDBGateway $gateway) { .. }
     public function load();
 }
 // Использование
 $httpClient = new HttpClient;
-$loader = new RateLoader($httpClient);
+$rdg = new RateDBGateway(..);
+$loader = new RateLoader($httpClient, $rdg);
 $loader->load();
 ```
 
@@ -327,13 +328,14 @@ class HttpClient implements DownloaderInterface
 class RateLoader
 {
     // указываем интерфейс в качестве тайп-хинта вместо конкретного имени класса
-    public function __construct(DownloaderInterface $httpClient) { .. }
+    public function __construct(DownloaderInterface $httpClient, RateDBGateway $gateway) { .. }
     public function load();
 }
 
 // Использование для скачивания с сети
 $httpClient = new HttpClient;
-$loader = new RateLoader($httpClient);
+$rdg = new RateDBGateway(...);
+$loader = new RateLoader($httpClient, $rdg);
 $loader->load();
 
 // использование для загрузки из файла
@@ -355,7 +357,8 @@ class RetryDownloader implements DownloaderInterface
 // Использование декоратора 
 $client = new HttpClient;
 $retryDownloader = new RetryDownloader($client, 20, 5);
-$rateLoader = new RateLoader($retryDownloader);
+$rdg = new RateDBGateway(...);
+$rateLoader = new RateLoader($retryDownloader, $rdg);
 ```
 
 Можно написать и другие декораторы, например, декоратор, логгирующий выполняющиеся запросы или декоратор, кеширующий результаты запроса. Мы можем гибко использовать отдельные классы, строя из них нужную нам конструкцию. 
