@@ -340,7 +340,7 @@ $loader->load();
 
 // использование для загрузки из файла
 $fileLoader = new FileLoader('/tmp/data.json');
-$loader = new RateLoader($fileLoader);
+$loader = new RateLoader($fileLoader, $rdg);
 $loader->load();
 ```
 
