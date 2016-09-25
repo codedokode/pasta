@@ -57,6 +57,7 @@ img { border: 1px dashed black; }
 - Тонкости позиционирования в CSS: http://softwaremaniacs.org/blog/category/primer/ (читать снизу вверх)
 - Подробности про раскладку элементов внутри строки (продвинутый уровень): http://css-live.ru/css/vvedenie-v-inlajnovyj-kontekst-formatirovaniya-ikf-osnovnye-ponyatiya-1-ya-publikaciya-cikla-tajny-css2-1.html
 - Картинки, которые можно нарисовать с помощью лишь одного дива: http://habrahabr.ru/company/paysto/blog/251933/ 
+- Важно верстать страницы доступными и поддерживаемыми на максимальном числе устройств: https://habrahabr.ru/company/oleg-bunin/blog/310210/
 
 После того, как немного изучишь основы, можешь начинать решать задания ниже и параллельно изучать дальше.
 
