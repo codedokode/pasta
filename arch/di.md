@@ -328,7 +328,7 @@ class HttpClient implements DownloaderInterface
 class RateLoader
 {
     // указываем интерфейс в качестве тайп-хинта вместо конкретного имени класса
-    public function __construct(DownloaderInterface $httpClient, RateDBGateway $gateway) { .. }
+    public function __construct(DownloaderInterface $downloader, RateDBGateway $gateway) { .. }
     public function load();
 }
 
@@ -350,7 +350,7 @@ $loader->load();
 // Класс-декоратор для повторения попыток загрузки
 class RetryDownloader implements DownloaderInterface
 {
-    public function __construct(DownloaderInterface $client, $pauseSeconds = 10, $retryCount = 3) { ... }
+    public function __construct(DownloaderInterface $downloader, $pauseSeconds = 10, $retryCount = 3) { ... }
     public function download($url) { ... }
 }
 
