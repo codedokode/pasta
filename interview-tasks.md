@@ -107,3 +107,6 @@ $templates = array(
 
 Вот тоже неплохие задачки: http://download.yandex.ru/company/shad/exam.pdf
 
+## От Ecwid
+
+https://github.com/Ecwid/new-job
