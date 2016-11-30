@@ -87,6 +87,10 @@ $templates = array(
 
     5
 
+## От Ecwid
+
+https://github.com/Ecwid/new-job
+
 ## Шарики
 
 Есть 2 абсолютно одинаковых (в том числе по прочности) стеклянных шарика и многоэтажный дом. Ты можешь ходить по дому и сбрасывать шарики с любого этажа. Вопрос, как определить высоту, с которой начинают разбиваться шарики, за минимальное число попыток (я кстати не смог найти самое оптимальное решение).
@@ -106,7 +110,3 @@ $templates = array(
 Вот еще задачки с собеседований, на JS/HTML: http://company.yandex.ru/job/vacancies/devint_kinopoisk.xml
 
 Вот тоже неплохие задачки: http://download.yandex.ru/company/shad/exam.pdf
-
-## От Ecwid
-
-https://github.com/Ecwid/new-job
