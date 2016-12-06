@@ -65,7 +65,7 @@ XSRF может использоваться не только с формами
 Далее, мы должны при выводе формы добавить скрытое поле с токеном в форму:
 
 ```html
-<input type="hidden" name="token" value="<?= hmlspecialchars($token, ENT_QUOTES) ?>">
+<input type="hidden" name="token" value="<?= htmlspecialchars($token, ENT_QUOTES) ?>">
 ```
 
 Ну и наконец при обработке данных формы мы должны сравнить токен в куках и в данных формы:
