@@ -332,7 +332,7 @@ Location: https://example.com/
 
     openssl s_client -connect example.com:443 < file.txt
 
-Обрати внимание, что HTTPS по умолчанию использует порт 443 вместо 80. Openssl возьмет на себя шифрование твоего запроса и расшифровку ответа. [Мануал по openssl s_client](https://www.openssl.org/docs/manmaster/apps/s_client.html) (англ., сложный).
+Обрати внимание, что HTTPS по умолчанию использует порт 443 вместо 80. Openssl возьмет на себя шифрование твоего запроса и расшифровку ответа. [Мануал по openssl s_client](https://www.openssl.org/docs/manmaster/man1/s_client.html) (англ., сложный).
 
 ### Еще один кредит
 
