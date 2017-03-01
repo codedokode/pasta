@@ -321,7 +321,9 @@ $container->register('PDO', function (DIContainer $container) {
     // из контейнера
     $config = $container->get('config');
     $dsn = "mysql:host={$config['host']};dbname={$config['dbname']};charset=utf8";
-    $pdo = new PDO($dsn, $config['user'], $config['password'], ...);
+    $pdo = new PDO($dsn, $config['user'], $config['password'], [
+        PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
+    ]);
     return $pdo;
 });
 
@@ -330,11 +332,11 @@ $container->register('UserDataGateway', function (DIContainer $container) {
     return new UserDataGateway($container->get('PDO'));
 });
 
-// теперь мы можем получить нужный нам сервис
+// теперь мы можем в любой момент получить нужный нам сервис
 $userGateway = $container->get('UserDataGateway');
 ```
 
-Попробуем написать класс: 
+Попробуем написать класс контейнера: 
 
 ```php
 class DIContainer
@@ -369,15 +371,12 @@ class DIContainer
             - Если нет, то ищем функцию-фабрику для такого сервиса
             - Если ее нет, то указано неверное имя сервиса, бросаем исключение
             - Вызываем функцию-фабрику, и сохраняем объект сервиса 
-        */
-        
+        */        
     }
 }
 ```
 
-
-
-
+Дописать недостающие части кода оставим в качестве домашнего задания читателю.
 
 ## Пример использования преимуществ DI
 
