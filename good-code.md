@@ -70,7 +70,7 @@ function getPostRating(\DateTime $added, $commentCount, $likeCount) { ... }
 Бывает, что в функции почти весь код заключен в огромный if:
 
 ```php
-function doDomething($x, $y) 
+function doSomething($x, $y) 
 {
     if ($x > 0) {
         if ($y > 0) {
