@@ -27,6 +27,7 @@
 ### html/
 
 - [Путь HTML/CSS](html/html.md)
+- [Способы позиционирования элементов в CSS](html/positioning.md)
 - [Алгоритм автоматического определения ширины shrink-to-fit в CSS](html/shrink-to-fit.md)
 
 ### js/
@@ -51,6 +52,7 @@
 
 ### security/
 
+- [Как безопасно хранить пароли](security/password-hashing.md)
 - [SQL-инъекция (внедрение SQL кода) и способы борьбы с ней](security/sql-injection.md)
 - [Уязвимость XSRF](security/xsrf.md)
 - [Уязвимость XSS в PHP-скриптах и как ее избежать](security/xss.md)
