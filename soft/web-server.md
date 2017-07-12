@@ -285,7 +285,7 @@ return false;
 - http://php.net/manual/ru/tutorial.php
 - http://php.net/manual/ru/language.basic-syntax.php
 
-После этого прочитай про шаблоны: http://www.phpinfo.su/articles/practice/shablony_v_php.html
+После этого прочитай про шаблоны: http://web.archive.org/web/20161119062218/http://www.phpinfo.su/articles/practice/shablony_v_php.html
 
 Изучив все это, попробуй решить задачи ниже. Если ты смог их решить - отлично, ты готов к написанию своего первого веб-приложения на PHP - задаче про список студентов.
 

@@ -42,7 +42,7 @@
 ......
 ```
 
-- HTML-шаблоны должны быть отделены от PHP кода ( http://www.phpinfo.su/articles/practice/shablony_v_php.html )
+- HTML-шаблоны должны быть отделены от PHP кода ( http://web.archive.org/web/20161119062218/http://www.phpinfo.su/articles/practice/shablony_v_php.html )
 - Надо использовать ООП. 
 - Для работы с базой данных можно использовать PDO и паттерн [TableDataGateway](./db/patterns-oop.md). 
 - Желательно использовать autoloading для подключения классов. 
@@ -95,7 +95,7 @@ $x = array_key_exists('x', $_POST) ? strval($_POST['x']) : '';
 echo "<div class=\"some-class\" style=\"padding-left: 20px;\"><span>...";
 ```
 
-Такой код тяжело и читать, и редактировать. Весь HTML-код надо вынести в отдельный шаблон, как описано тут: http://www.phpinfo.su/articles/practice/shablony_v_php.html
+Такой код тяжело и читать, и редактировать. Весь HTML-код надо вынести в отдельный шаблон, как описано тут: http://web.archive.org/web/20161119062218/http://www.phpinfo.su/articles/practice/shablony_v_php.html
 
 Не забывай экранировать данные при выводе в шаблоне, иначе получишь уязвимость XSS. Прочитай урок про борьбу с XSS: [security/xss.md](security/xss.md).
 
