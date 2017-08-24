@@ -27,6 +27,7 @@
 ### html/
 
 - [Путь HTML/CSS](html/html.md)
+- [Тестирование и отладка верстки под ИЕ](html/markup-for-ie.md)
 - [Способы позиционирования элементов в CSS](html/positioning.md)
 - [Алгоритм автоматического определения ширины shrink-to-fit в CSS](html/shrink-to-fit.md)
 
