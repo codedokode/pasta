@@ -51,6 +51,7 @@
 - [Как использовать исключения в PHP](php/exceptions.md)
 - [Интерфейсы в ООП](php/interfaces.md)
 - [Функции работы с UTF-8 строками в PHP](php/strings-utf8.md)
+- [Шаблоны в PHP](php/templates.md)
 
 ### security/
 
