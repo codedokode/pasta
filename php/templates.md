@@ -329,15 +329,15 @@ html(lang="en")
   head
     title= pageTitle
   body
-    h1 Pug - node template engine
+    h1 Pug - шаблонизатор для JS
     #container.col
       if youAreUsingPug
-        p You are amazing
+        p Вы молодец!
       else
-        p Get on it!
+        p Познакомьтесь с Pug!
       p.
-        Pug is a terse and simple templating language with a
-        strong focus on performance and powerful features.
+        Pug - это лаконичный и простой язык шаблонов, уделяющий 
+        внимание производительности и мощным возможностям.
 ```
 
 Вместо тегов здесь используется CSS-подобный синтаксис, а вложенность элементов друг в друга задается отступами. Например, конструкция `#container.col` в коде выше развернется в HTML-код `<div id="container" class="col">...</div>`. Для PHP есть шаблонизаторы с поддержкой синтаксисов Pug и HAML:
@@ -352,13 +352,13 @@ html(lang="en")
 
 ```handlebars
 <div class="post">
-  <h1>By {{fullName author}}</h1>
+  <h1>Автор: {{fullName author}}</h1>
   <div class="body">{{body}}</div>
 
-  <h1>Comments</h1>
+  <h1>Комментарии</h1>
 
   {{#each comments}}
-  <h2>By {{fullName author}}</h2>
+  <h2>Автор: {{fullName author}}</h2>
   <div class="body">{{body}}</div>
   {{/each}}
 </div>
@@ -374,7 +374,7 @@ html(lang="en")
 ```xslt
 <xsl:for-each select="/guestbook-messages/message">
     <p>
-        <b><xsl:value-of select="@name" /></b>:
+        <b>Автор: <xsl:value-of select="@name" /></b>:
     </p>
     <p>
         <xsl:value-of select="@message" />
