@@ -369,6 +369,37 @@ html(lang="en")
 - https://github.com/bobthecow/mustache.php
 - https://github.com/zordius/lightncandy
 
+Также ранее был популярен (но сейчас он используется реже) шаблонизатор на основе языка XSLT. [XSLT](https://ru.wikipedia.org/wiki/XSLT) - это язык, который позволяет преобразовать [XML](https://ru.wikipedia.org/wiki/XML)-документ в другой XML- или HTML-документ. Вот пример фрагмента XSLT-шаблона: 
+
+```xslt
+<xsl:for-each select="/guestbook-messages/message">
+    <p>
+        <b><xsl:value-of select="@name" /></b>:
+    </p>
+    <p>
+        <xsl:value-of select="@message" />
+    </p>
+    <hr />    
+</xsl:for-each>
+```
+
+А вот пример XML-данных, которые нужно передать в этот шаблон: 
+
+```xml
+<guestbook-messages>
+    <message name="Иван" message="Текст сообщения Ивана">
+    <message name="Петр" message="Текст сообщения Петра">
+</guestbook-messages>
+```
+
+В [статье Википедии про XSLT](https://ru.wikipedia.org/wiki/XSLT) есть гораздо больше примеров.
+
+Преимуществом XSLT является строгость синтаксиса - он не пропустит незакрытые или несбалансированные HTML-теги в шаблоне. К недостаткам относится громоздкость синтаксиса, сложность расширения шаблонизатора пользовательскими функциями, необходимость преобразовывать все данные в XML вместо передачи напрямую в шаблонизатор. 
+
+XSLT версии 1 поддерживается стандартным расширением к PHP: http://php.net/manual/ru/book.xsl.php
+
+Для поддержки XSLT версии 2 придется устанавливать сторонние библиотеки: http://www.saxonica.com/html/saxon-c/
+
 ## Ссылки: 
 
 - подробнее про встроенный в PHP шаблонизатор: http://php.net/manual/ru/language.basic-syntax.php , http://php.net/manual/ru/control-structures.alternative-syntax.php
