@@ -371,7 +371,7 @@ Location: https://example.com/
 Подсказки: 
 
 - про то, как корректно вставить текст с любыми символами в HTML-код, написано [в уроке про XSS](../security/xss.md)
-- по умолчанию в HTML любое число переводов строк и пробелов воспринимается как один пробел. Чтобы сохранить все пробелы и переводы строк при выводе, нужно либо использовать HTML-тег [<pre>](https://developer.mozilla.org/ru/docs/Web/HTML/Element/pre), либо CSS-свойство [white-space](https://developer.mozilla.org/ru/docs/Web/CSS/white-space)
+- по умолчанию в HTML любое число переводов строк и пробелов воспринимается как один пробел. Чтобы сохранить все пробелы и переводы строк при выводе, нужно либо использовать HTML-тег [pre](https://developer.mozilla.org/ru/docs/Web/HTML/Element/pre), либо CSS-свойство [white-space](https://developer.mozilla.org/ru/docs/Web/CSS/white-space)
 - при подстановке параметра в ссылку вроде `x.php?a=...` необходимо корректно экранировать спецсимволы. Как это сделать, описано [в уроке про структуру URL](../network/urls.md)
 - при подстановке ссылки в HTML-атрибут `href` ее, разумеется, тоже нужно корректно экранировать
 
