@@ -199,7 +199,7 @@ require __DIR__ . '/../bootstrap.php';
 $posts = $postService->getAllPosts();
 
 // Вызываем вид, чтобы отобразить их
-require __DIR__ . '/../view/post-list.phtml';
+require __DIR__ . '/../view/list.phtml';
 ```
 
 Осталось написать только Представление, которое будет отображать список объявлений в виде HTML страницы. Создадим файл `view/post.phtml`. Расширение `phtml` указывает, что это PHP-шаблон:
