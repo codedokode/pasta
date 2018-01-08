@@ -24,8 +24,8 @@ function addLike(User $user, $object) { ... }
  */
 interface Likeable
 {
-public function increaseLikeCount();
-public function getLikeCount();
+    public function increaseLikeCount();
+    public function getLikeCount();
 }
 ```
 
