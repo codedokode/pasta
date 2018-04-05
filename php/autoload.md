@@ -20,7 +20,7 @@ class A extends SomeClass
 require_once __DIR__ . '/Some/Class.php';
 require_once __DIR__ . '/Some/Other/Class.php';
 
-class A extneds SomeClass
+class A extends SomeClass
 { 
 ....
 ```
