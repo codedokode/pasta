@@ -22,7 +22,7 @@
 ```html
 <!-- Указываем в качестве адреса отправки сайт банка и делаем форму 
      невидимой (display: none), чтобы не вызывать подозрений у пользователя -->
-<form action="http://bank.example.com/send.php" style="display: none;">
+<form action="https://bank.example.com/send.php" style="display: none;">
     <input type="hidden" name="sum" value="9000">
     <input type="hidden" name="target" value="счет злоумышленника">
 </form>
