@@ -26,6 +26,7 @@
 
 ### html/
 
+- [Особенности свойства margin на элементах с float](html/float-margins.md)
 - [Путь HTML/CSS](html/html.md)
 - [Тестирование и отладка верстки под ИЕ](html/markup-for-ie.md)
 - [Способы позиционирования элементов в CSS](html/positioning.md)
@@ -68,6 +69,13 @@
 - [Настраиваем веб-сервер для работы с PHP из браузера](soft/web-server.md)
 
 
+
+### Дополнительно
+
+- [Как устроены компьютерные сети, что такое NAT](https://gist.github.com/codedokode/1af26d3a64748f05ba8b870b273edfc6)
+- [Как работают транзакции в MySQL, что такое MVCC](https://gist.github.com/codedokode/45f2961e7d68f7a2c501f4f893a45e17)
+- [Варианты архитектуры программ-серверов (много процессов, много потоков, асинхронный код)](https://gist.github.com/codedokode/ffd520440a970c07c1c6)
+- [Автоматизированное тестирование](https://gist.github.com/codedokode/a455bde7d0748c0a351a)
 
 Вопросы/советы/замечания — шлите на codedokode@gmail.com
 
