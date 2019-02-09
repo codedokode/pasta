@@ -214,8 +214,11 @@ echo "<div class=\"some-class\" style=\"padding-left: 20px;\"><span>...";
 
 ```sql
 CREATE TABLE credits (
+    -- имя заемщика
     name VARCHAR(100) NOT NULL CHECK (LENGTH(name) >= 3),
+    -- процент по кредиту
     percent INT(2) NOT NULL CHECK (percent BETWEEN 1 AND 20),
+    -- комиссия за выдачу кредита
     commission INT(2) NOT NULL,
     CHECK (percent + commission <= 25)
 )
