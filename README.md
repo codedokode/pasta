@@ -49,7 +49,7 @@
 - [Автозагрузка, неймспейсы и PSR-4](php/autoload.md)
 - [Сравнение и сортировка строк в PHP](php/collation.md)
 - [Работа с датой и временем в PHP](php/datetime.md)
-- [Инкапсуляция в ООП](php/encapsulation.txt)
+- [Инкапсуляция в ООП](php/encapsulation.md)
 - [Как использовать исключения в PHP](php/exceptions.md)
 - [Интерфейсы в ООП](php/interfaces.md)
 - [Функции работы с UTF-8 строками в PHP](php/strings-utf8.md)
