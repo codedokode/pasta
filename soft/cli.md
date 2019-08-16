@@ -307,7 +307,7 @@
 
 ### Сеть
 
-Скачать файл можно командой wget: `wget -O file.txt 'http://exanple.com/download/file'`  Кавычки нужны.
+Скачать файл можно командой wget: `wget -O file.txt 'http://example.com/download/file'`  Кавычки нужны.
 
 Можно отправлять POST- и GET-запросы, например, для тестирования твоего приложения, командой curl:
 
