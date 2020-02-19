@@ -189,7 +189,7 @@ set_exception_handler(function (Throwable $exception) {
     // 
     // Она может записать исключение в журнал и вывести 
     // страницу ошибки.
-    error_log($e->__toString());
+    error_log($exception->__toString());
 
     header("HTTP/1.0 503 Temporary unavailable");
     header("Content-type: text/plain; charset=utf-8");
