@@ -7,6 +7,10 @@
 - [Задачи с собеседований](interview-tasks.md)
 - [Задача про список студентов](student-list.md)
 
+### algorithm/
+
+- [Разбор задачи про банкомат](algorithm/atm.md)
+
 ### arch/
 
 - [Зачем нужно Dependency Injection (и что это?)](arch/di.md)
