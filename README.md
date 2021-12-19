@@ -61,6 +61,7 @@
 
 ### security/
 
+- [Как безопасно загружать файлы пользователей на сервер](security/files-upload.md)
 - [Как безопасно хранить пароли](security/password-hashing.md)
 - [SQL-инъекция (внедрение SQL кода) и способы борьбы с ней](security/sql-injection.md)
 - [Уязвимость XSRF](security/xsrf.md)
