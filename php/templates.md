@@ -1,6 +1,6 @@
 # Шаблоны в PHP
 
-Это перепечатка с сокращениями статьи, которая была опубликована на несуществующем более сайте `http://www.phpinfo.su/articles/practice/shablony_v_php.html` ([оригинал в веб-архиве](http://web.archive.org/web/20161119062218/http://www.phpinfo.su/articles/practice/shablony_v_php.html)), автор: phpinfo.su
+Это перепечатка с исправлениями статьи, которая была опубликована на несуществующем более сайте `http://www.phpinfo.su/articles/practice/shablony_v_php.html` ([оригинал в веб-архиве](http://web.archive.org/web/20161119062218/http://www.phpinfo.su/articles/practice/shablony_v_php.html)), автор: phpinfo.su
 
 В конце добавлен маленький обзор современных шаблонизаторов.
 
@@ -79,8 +79,8 @@ if ($result) {
 // загружаем содержимое файла шаблона в строку
 $tpl = file_get_contents('template.html');
 // меняем в шаблоне метку {body} на переменную $body
-$tpl = str_replace('{body}', $body, $tpl);
-echo $tpl;
+$html = str_replace('{body}', $body, $tpl);
+echo $html;
 ```
 
 Шаблон template.html:
@@ -113,11 +113,11 @@ $b = isset($_GET['b']) && is_numeric($_GET['b']) ? $_GET['b'] : 0;
 $result = $a + $b;
 
 // загружаем содержимое файла шаблона в строку
-$tpl = file_get_contents('template.html');
+$template = file_get_contents('template.html');
 // запускаем наш супер-мега самописный шаблонизатор и передаем в него данные из 
 // php-скрипта в виде пар ключ => значение
-$tpl = super_mega_template_engine( array('result' => $result) );
-echo $tpl;
+$html = super_mega_template_engine($template, ['result' => $result]);
+echo $html;
 ```
 
 Шаблон теперь выглядит так:
@@ -196,12 +196,12 @@ include('template.html');
 
 В массиве присутствуют следующие ключи:
 
-- $guestbook_messages['user_id'] — ID зарегистрированного пользователя. Если его нет, значит пользователь — анонимный.
-- $guestbook_messages['user_name'] — Имя зарегистрированного пользователя. Если его нет, значит пользователь — анонимный.
-- $guestbook_messages['user_ip'] — IP-адрес пользователя.
-- $guestbook_messages['user_message'] — Сообщение пользователя.
-- $guestbook_messages['date'] — Дата публикации сообщения.
-- $guestbook_messages['admin_answer'] — Сообщение администратора, относящееся к записи пользователя.
+- `$guestbook_messages['user_id']` — ID зарегистрированного пользователя. Если его нет, значит пользователь — анонимный.
+- `$guestbook_messages['user_name']` — Имя зарегистрированного пользователя. Если его нет, значит пользователь — анонимный.
+- `$guestbook_messages['user_ip']` — IP-адрес пользователя.
+- `$guestbook_messages['user_message']` — Сообщение пользователя.
+- `$guestbook_messages['date']` — Дата публикации сообщения.
+- `$guestbook_messages['admin_answer']` — Сообщение администратора, относящееся к записи пользователя.
 
 ```php
 <!DOCTYPE html>
